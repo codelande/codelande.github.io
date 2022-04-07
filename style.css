@@ -1,0 +1,27 @@
+.navbar {
+    background-color: rgb(48, 48, 161) !important;
+}
+
+.myCards {
+    display: flex;
+    justify-content: space-around;
+}
+
+.myTitle {
+    margin: 2rem;
+    text-align: center;
+}
+
+.navbar-collapse {
+    flex-grow: unset;
+}
+
+.myH2 {
+    text-align: center;
+    margin: 5rem;
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgb(48, 48, 161) !important;
+}
