@@ -26,3 +26,9 @@
     background-color: rgb(48, 48, 161) !important;
 }
 
+@media screen and (max-width: 990px) {
+    .card-text{
+        display: none;
+    }
+    
+}
